@@ -1,0 +1,7 @@
+streamlit
+pymupdf
+groq
+python-dotenv
+gtts
+openai-whisper
+torch
